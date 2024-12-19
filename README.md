@@ -1,7 +1,3 @@
-# Backend DSA
+Backend del mínimo 2 de DSA.
 
-Backend del proyecto de DSA
-
-### API REST
-
-Para ver las llamadas del API disponibles, ejecutar el proyecto y entrar a http://localhost:8080/swagger/
+Backend completamente funcional, android me ha desaparecido.
