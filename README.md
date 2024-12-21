@@ -1,3 +1,1 @@
-Backend del mínimo 2 de DSA.
-
-Backend completamente funcional, android me ha desaparecido.
+Versió del Mínim 2 - Backend (backend i Rest funcionals)
